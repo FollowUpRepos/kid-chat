@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0;
+  background-color: #000;
+  color: #ccc;
+
+  min-height: 100vh;
+}
+
+
+div * {
+  margin: 0;
+  color: #666;
+}
